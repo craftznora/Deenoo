@@ -1,0 +1,23 @@
+{
+    "name": "deenoo",
+    "displayName": "Deenoo",
+    "description": "Made By Deenoo ! 🤖🤖🤖🤖🤖🤖",
+    "version": "0.0.1",
+    "publisher": "Deenoo",
+    "repository": {},
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Deenoo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Deenoo-color-theme.json"
+            }
+        ]
+    }
+}
